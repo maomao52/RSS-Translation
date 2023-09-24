@@ -16,5 +16,5 @@
  - source003 [https://feedex.net/feed/rss.app/feeds/uNdwq5moJvuNbUAZ.xml](https://feedex.net/feed/rss.app/feeds/uNdwq5moJvuNbUAZ.xml) -> [icij_rss.xml](rss/icij_rss.xml)
  - source004 [https://feedex.net/feed/rss.app/feeds/XAnM1njySCOHnEiB.xml](https://feedex.net/feed/rss.app/feeds/XAnM1njySCOHnEiB.xml) -> [reuters_invest2_rss.xml](rss/reuters_invest2_rss.xml)
  - source005 [https://feedex.net/feed/rss.app/feeds/ZBLd90rwnXzzhw6A.xml](https://feedex.net/feed/rss.app/feeds/ZBLd90rwnXzzhw6A.xml) -> [invest_euro_rss.xml](rss/invest_euro_rss.xml)
- - source006 [https://feedex.net/feed/rss.app/feeds/ZBLd90rwnXzzhw6A.xml](https://feedex.net/feed/rss.app/feeds/ZBLd90rwnXzzhw6A.xml) -> [newstapa_rss.xml](rss/newstapa_rss.xml)
+ - source006 [https://feedex.net/feed/rss.app/feeds/5jo1xd3kgA9S2EKc.xml](https://feedex.net/feed/rss.app/feeds/5jo1xd3kgA9S2EKc.xml) -> [newstapa_rss.xml](rss/newstapa_rss.xml)
  - source007 [https://feedex.net/feed/rss.app/feeds/dYVwH6DKve8Edlxm.xml](https://feedex.net/feed/rss.app/feeds/dYVwH6DKve8Edlxm.xml) -> [jptansa_rss.xml](rss/jptansa_rss.xml)
