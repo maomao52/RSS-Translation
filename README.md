@@ -15,3 +15,4 @@
  - source002 [https://feedex.net/feed/rss.app/feeds/OXF7oCDx9maGSMWx.xml](https://feedex.net/feed/rss.app/feeds/OXF7oCDx9maGSMWx.xml) -> [propublica_rss.xml](rss/propublica_rss.xml)
  - source003 [https://feedex.net/feed/rss.app/feeds/uNdwq5moJvuNbUAZ.xml](https://feedex.net/feed/rss.app/feeds/uNdwq5moJvuNbUAZ.xml) -> [icij_rss.xml](rss/icij_rss.xml)
  - source004 [https://feedex.net/feed/rss.app/feeds/XAnM1njySCOHnEiB.xml](https://feedex.net/feed/rss.app/feeds/XAnM1njySCOHnEiB.xml) -> [reuters_invest2_rss.xml](rss/reuters_invest2_rss.xml)
+ - source005 [https://feedex.net/feed/rss.app/feeds/ZBLd90rwnXzzhw6A.xml](https://feedex.net/feed/rss.app/feeds/ZBLd90rwnXzzhw6A.xml) -> [invest_euro_rss.xml](rss/invest_euro_rss.xml)
