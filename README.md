@@ -12,3 +12,4 @@
 ## 已转换翻译源
 
  - source001 [https://rsshub.app/reuters/investigates](https://rsshub.app/reuters/investigates) -> [reuters_invest_title_rss.xml](rss/reuters_invest_title_rss.xml)
+ - source002 [https://rss.app/feeds/OXF7oCDx9maGSMWx.xml](https://rss.app/feeds/OXF7oCDx9maGSMWx.xml) -> [propublica_rss.xml](rss/propublica_rss.xml)
